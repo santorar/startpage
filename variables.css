@@ -1,20 +1,20 @@
 :root {
   /** colors */
-  --color-name: custom;
-  --color-bg-shade: #202020;
-  --color-bg-base: #282828;
-  --color-bg-surface: #303030;
-  --color-bg-highlight: #383838;
-  --color-fg-shade: #DABC70;
-  --color-fg-base: #EBDBB2;
-  --color-fg-surface: #FCFAF4;
+  --color-name: material;
+  --color-bg-shade: #1A1A1A;
+  --color-bg-base: #212121;
+  --color-bg-surface: #282828;
+  --color-bg-highlight: #2E2E2E;
+  --color-fg-shade: #949494;
+  --color-fg-base: #B9B9B9;
+  --color-fg-surface: #DEDEDE;
   --color-fg-highlight: #FFFFFF;
-  --color-primary-bg: #426B33;
-  --color-primary-base: #8EC07C;
-  --color-primary-fg: #EAF3E7;
-  --color-secondary-bg: #405237;
-  --color-secondary-base: #82A072;
-  --color-secondary-fg: #CBD7C4;
+  --color-primary-bg: #265828;
+  --color-primary-base: #4CAF50;
+  --color-primary-fg: #A2D7A4;
+  --color-secondary-bg: #56235F;
+  --color-secondary-base: #AB47BC;
+  --color-secondary-fg: #D6A6DF;
   --color-palette-red: #E06C75;
   --color-palette-green: #98C379;
   --color-palette-yellow: #E5C07B;
@@ -28,9 +28,9 @@
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1150px;
-  --surface-shadow: 0px 0px 18px #426B33;
-  --surface-borderRadius: 9px;
+  --surface-maxWidth: 1160px;
+  --surface-shadow: 0px 0px 9px #265828;
+  --surface-borderRadius: 23px;
 
   /** spacing */
   --space-smallest: 0.125rem;
